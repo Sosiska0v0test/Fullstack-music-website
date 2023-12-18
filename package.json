@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "moment": "^2.29.3",
-    "react-scripts": "^5.0.1"
-  },"scripts": {
-  "build": "react-scripts build"
-}
-}
