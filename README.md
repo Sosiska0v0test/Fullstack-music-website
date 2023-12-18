@@ -1,7 +1,10 @@
 # Music-website
 It`s Fullstack music website using React, Node.js, MongoDB and Firebase. There is a Admin and Owner Dashboard, where you can add music, see all users of this site, and give a role to users. There is also authorization using Google on this site.
 
-<iframe width="560" height="315" src="https://github.com/Sosiska0v0test/Music-website/blob/main/video.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+  Video
+</video>
 
 
 In order to launch this site, you need to download and add your data from Firebase and MongoDB to the .env files and Config folder
